@@ -13,4 +13,8 @@ p {
   align-items: center;
   font-size: 1.125rem;
   background-color: red;
+  border-radius: 10%;
+  color: white;
+  text-shadow: 1.2px 1.2px 1.2px black;
+  border: 1px solid rgb(200, 0, 0);
 }
