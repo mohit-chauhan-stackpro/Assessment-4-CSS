@@ -3,3 +3,14 @@ html {
 }
 
 /* Your CSS below here */
+p {
+  width: 200px;
+  height: 170px;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.125rem;
+  background-color: red;
+}
